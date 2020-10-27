@@ -1,8 +1,5 @@
 ### Olá terráqueos 👋
 
-<!--
-**wendrewdevelop/wendrewdevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 know a bit about me:
 
 - 🔭 I’m currently working with analysis of public data
@@ -15,4 +12,3 @@ know a bit about me:
   - Javascript (Vue.js);
   - SQLite, Redis, PostgreSQL, MySQL e MongoDB.
 - ⚡ Fun fact: I want to do a master's and doctorate degree in bioinformatics and become a researcher (Researcher in Brazil? - Yes, I know ...)
--->
