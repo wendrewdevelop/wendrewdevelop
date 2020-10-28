@@ -11,5 +11,5 @@ know a bit about me:
   - Python (Django e Flask);
   - Javascript (Vue.js);
   - SQLite, Redis, PostgreSQL, MySQL e MongoDB.
-- ⚡ Fun fact: I want to do a master's and doctorate degree in bioinformatics and become a researcher <br>
+- ⚡ Fun fact: I want to do a master's and doctorate degree in bioinformatics and become a researcher. <br>
 Researcher in Brazil? - Yes, I know...
