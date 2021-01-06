@@ -27,10 +27,10 @@
 <hr>
 
 ### know a bit about me:
-- 🔭 I’m currently working with python web development
-- 🌱 I’m currently learning anything python related
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything
+- 🔭 I’m currently working with python at concil;
+- 🌱 I’m currently learning anything python related;
+- 👯 I’m looking to collaborate on open source projects;
+- 💬 Ask me about anything;
 - ⚡ Fun fact: I want to do a master's and doctorate degree in bioinformatics and become a researcher. <br>
 Researcher in Brazil? - Yes, I know...
 <hr>
