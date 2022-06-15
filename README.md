@@ -33,7 +33,7 @@
 - 💬 Ask me about anything;
 - ⚡ Fun fact: I want to do a master's and doctorate degree in bioinformatics and become a researcher. <br>
 Researcher in Brazil? - Yes, I know...
-- Working on @pagseguro.
+- Working on <a href="https://github.com/pagseguro">@pagseguro</a>.
 <hr>
 <p align="center">
 <img width="400" alt="Drew's github stats" src="https://github-readme-stats.vercel.app/api?username=wendrewdevelop&count_private=true&theme=midnight-purple&show_icons=true" />
